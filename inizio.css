@@ -1,0 +1,17 @@
+.ct-chart {
+
+    padding-top: 100px;
+    padding-bottom: 500px;
+    page-break-after: always;
+    width: 1000px;
+    height: 500px;
+    border: 0px black solid;
+    margin: auto;
+
+}
+
+.ct-series-a .ct-line,
+.ct-series-a .ct-point {
+  stroke: black !important;
+  color: black !important;
+}
